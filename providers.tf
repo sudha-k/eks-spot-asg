@@ -6,7 +6,7 @@ provider "kubernetes" {
 
 provider "aws" {
   region = "eu-north-1"
-  access_key = "AKIAYKALDRGPWDOUW5NC"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   version = "3.37.0"
 }
